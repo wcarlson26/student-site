@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Japanese Food in DC</title>
+  </head>
+  <body>
+
+    <h1>Japanese Food in DC</h1>
+    <p> I need to find where the best stuff is at. Where is it?</p>
+    <p> Most likely it is in:
+        <ul>
+            <li>Federal Triangle</li>
+            <li> Foggy Bottom</li>
+        </ul>
+    </p>
+
+  </body>
+</html>
